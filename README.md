@@ -6,8 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/feti-kamberi-3a9bb6247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feti-kamberi-3a9bb6247" height="30" width="40" /></a>
-<a href="https://fb.com/feti.kamberi.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="feti.kamberi.1/" height="30" width="40" /></a>
-<a href="https://instagram.com/fetikamberiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fetikamberiii" height="30" width="40" /></a>
 </p>
 
 
