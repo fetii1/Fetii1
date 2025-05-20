@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Feti</h1>
 <h3 align="center">A frontend developer from North Macedonia</h3>
 
-- 🔭 I’m currently working on [My Portfolio] [shhh.... it's still a secret...]
+<a href="https://www.feti.dev">Check out my portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
